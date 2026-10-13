@@ -1,0 +1,1 @@
+PostgreSQL with a replica in another zone
